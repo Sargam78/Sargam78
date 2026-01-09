@@ -1,4 +1,13 @@
-## Hi there 👋
+Hi 👋, I’m Sargam
+
+🎓 Student at Maharana Institute of Professional Studies  
+💻 Beginner in Web Development & WordPress  
+🌱 Currently learning Git, GitHub & PHP  
+🎯 Interested in building real-world projects  
+
+🔗 GitHub: https://github.com/Sargam78  
+🔗 Stack Overflow: https://stackexchange.com/users/45250080/sargam-lakhmani
+
 
 <!--
 **Sargam78/Sargam78** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
